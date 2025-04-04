@@ -1,6 +1,6 @@
 # jpa02-junjiel123
 
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa01-junjiel123.dokku-10.cs.ucsb.edu/
 
 
 # About this repo
